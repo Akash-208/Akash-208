@@ -1,11 +1,10 @@
 ### Hello, folks! 👋
 
-My name is Akash Giri and I'm a Computer Science student. I am currently working as Backend/Devops Engineer Intern at Fountane Inc. 
-
+My name is Akash Giri and I'm a Computer Science student.
 You can find me here :
 <br>
 
-[![Linkedin Followers](https://img.shields.io/badge/LinkedIn-2k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/akash-giri-825427212/)
+[![Linkedin Followers](https://www.linkedin.com/in/akash-giri-825427212/)
 
 ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=Akash-208&show_icons=true&count_private=true&theme=radical)
 ![Akash's lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-208&theme=radical)
